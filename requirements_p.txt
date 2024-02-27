@@ -1,0 +1,8 @@
+pyspider
+werkzeug==0.16.1
+flask-login==0.4.0
+flask==1.0
+itsdangerous==1.0
+wsgidav==2.4.1
+beautifulsoup4
+requests-html
